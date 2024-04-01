@@ -1,0 +1,36 @@
+table{
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    padding: 8px;
+    
+    
+
+}
+
+input{
+    width: 70px;
+    height: 30px;
+    font-size: large;
+    
+
+}
+input:hover{
+    border: solid blue 1px;
+}
+
+.display{
+    width: 300px;
+    text-align: right;
+    background-color: black;
+    color: white;
+}
+input.big{
+    width: 150px;
+}
+
+
+
+
+  
+
